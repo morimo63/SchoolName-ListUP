@@ -4,9 +4,9 @@
 ## uniname.py
 大学、短期大学のリストアップするプログラム
 
-- https://passnavi.evidus.com/search_univ
+- 大学受験パスナビ(https://passnavi.evidus.com/search_univ)
 
-- https://passnavi.evidus.com/search_univ/list/pre_XX/
+https ://passnavi.evidus.com/search_univ/list/pre_XX/
 
 |XX|県名|
 |-|-|
